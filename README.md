@@ -61,9 +61,9 @@
 
 | Project | Description |
 |---|---|
-| **[AI Red Team Lab](https://github.com/SayedAbdou/ai-red-team-lab)** | AI red team methodology, attack taxonomy, prompt-injection fuzzer, eval scenario builder, and AI-agent security workflows — all open-source and synthetic |
-| **[Automated Network Vulnerability Scanner](https://github.com/SayedAbdou/automated-network-vulnerability-scanner)** | Python scanner: port scanning, banner grabbing, service detection, Nmap integration, structured reports |
-| **[Secure Web Application Development](https://github.com/SayedAbdou/secure-web-application)** | Reference project: authN/authZ, input validation, SQLi/XSS/CSRF mitigations, password hashing, session management |
+| **[AI Red Team Lab](https://github.com/sayedabdou/ai-red-team-lab)** | AI red team methodology, attack taxonomy, prompt-injection fuzzer, eval scenario builder, and AI-agent security workflows — all open-source and synthetic |
+| **[Automated Network Vulnerability Scanner](https://github.com/sayedabdou/automated-network-vulnerability-scanner)** | Python scanner: port scanning, banner grabbing, service detection, Nmap integration, structured reports |
+| **[Secure Web Application Development](https://github.com/sayedabdou/secure-web-application)** | Reference project: authN/authZ, input validation, SQLi/XSS/CSRF mitigations, password hashing, session management |
 
 ## 📜 Certifications
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-![Sayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayedAbdou&show_icons=true&theme=github_dark&hide_title=true)
+![Sayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayedabdou&show_icons=true&theme=github_dark&hide_title=true)
 
 </div>
 
@@ -82,7 +82,7 @@
 I'm always open to discussing AI security, bug bounty, and automation - or a good CTF story.
 
 [![Website](https://img.shields.io/badge/Website-2ea44f?style=for-the-badge)](https://www.sayedabdou.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SayedAbdou)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayedabdou)
 [![Email](https://img.shields.io/badge/Email-db4437?style=for-the-badge)](mailto:work@sayedabdou.com)
 
 ---

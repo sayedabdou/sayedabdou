@@ -61,7 +61,7 @@
 
 | Project | Description |
 |---|---|
-| **[ai-red-team-lab](https://github.com/SayedAbdou/ai-red-team-lab)** | AI red team methodology, attack taxonomy, prompt-injection fuzzer, eval scenario builder, and AI-agent security workflows — all open-source and synthetic |
+| **[AI Red Team Lab](https://github.com/SayedAbdou/ai-red-team-lab)** | AI red team methodology, attack taxonomy, prompt-injection fuzzer, eval scenario builder, and AI-agent security workflows — all open-source and synthetic |
 | **[Automated Network Vulnerability Scanner](https://github.com/SayedAbdou/automated-network-vulnerability-scanner)** | Python scanner: port scanning, banner grabbing, service detection, Nmap integration, structured reports |
 | **[Secure Web Application Development](https://github.com/SayedAbdou/secure-web-application)** | Reference project: authN/authZ, input validation, SQLi/XSS/CSRF mitigations, password hashing, session management |
 
